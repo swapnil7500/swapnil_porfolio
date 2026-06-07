@@ -28,8 +28,8 @@ export default function Resume() {
           }}
         >
           <a
-            href="NEW_SWAPNIL RESUME.pdf"
-            download="NEW_SWAPNIL RESUME.pdf"
+            href="file:///C:/Users/swapn/Downloads/SWAPNIL_LATEST%20RESUME.pdf"
+            download="file:///C:/Users/swapn/Downloads/SWAPNIL_LATEST%20RESUME.pdf"
             className="btn btn-primary"
             style={{ display: 'inline-flex', alignItems: 'center' }}
           >
@@ -144,7 +144,7 @@ export default function Resume() {
               </h4>
               <div style={{ display: 'flex', flexDirection: 'column', gap: '8px', fontSize: '0.85rem', color: 'var(--text-secondary)' }}>
                 <div>
-                  <strong style={{ color: 'var(--text-primary)' }}>Programming Languages: </strong> C++, Java, JavaScript (ES6+)
+                  <strong style={{ color: 'var(--text-primary)' }}>Programming Languages: </strong> C, Java, JavaScript (ES6+)
                 </div>
                 <div>
                   <strong style={{ color: 'var(--text-primary)' }}>Web Technologies: </strong> HTML5, CSS3, React.js, Node.js, Express.js, RESTful APIs, JSON
@@ -164,7 +164,7 @@ export default function Resume() {
                 Key Credentials
               </h4>
               <div style={{ display: 'flex', flexWrap: 'wrap', gap: '8px' }}>
-                {["LeetCode 250+ Solved", "MERN Full Stack Dev", "5 Star C++ (HackerRank)", "Certified Web Intern"].map((badge, idx) => (
+                {["LeetCode 175+ Solved", "MERN Full Stack Dev", "5 Star java (HackerRank)", "Certified Web Intern"].map((badge, idx) => (
                   <span
                     key={idx}
                     style={{

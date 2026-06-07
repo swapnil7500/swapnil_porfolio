@@ -45,7 +45,7 @@ export default function CodingProfiles() {
       glow: "rgba(255, 161, 22, 0.15)",
       borderColor: "rgba(255, 161, 22, 0.4)",
       tagline: "Data Structures & Algorithms Solving",
-      stat: "250+ Solved"
+      stat: "175+ Solved"
     },
     {
       name: "HackerRank",
@@ -55,7 +55,7 @@ export default function CodingProfiles() {
       glow: "rgba(46, 200, 102, 0.15)",
       borderColor: "rgba(46, 200, 102, 0.4)",
       tagline: "Skill Certificates & Language Badges",
-      stat: "5 Star C++ / Problem Solving"
+      stat: "5 Star java / Problem Solving"
     }
   ];
 

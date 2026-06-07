@@ -14,7 +14,7 @@ export default function Education() {
       degree: "B.Tech in Computer Science & Engineering (C.S.E.)",
       college: "AJAY KUMAR GARG ENGINEERING COLLEGE, GHAZIABAD",
       university: "Dr. A.P.J. Abdul Kalam Technical University (AKTU)",
-      year: "4th Year (Session 2022 - 2026)",
+      year: "4th Year (Session 2023 - 2027)",
       cgpa: "8.4 CGPA",
       coursework: ["Data Structures & Algorithms", "DBMS", "Operating Systems", "Computer Networks", "Software Engineering"]
     };
